@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Messous Chabane
 
-🎓 Data Science Engineering Student (4th Year)  
+🎓 Data Science Engineering Student (5th Year)  
 🤖 Machine Learning & Deep Learning Developer  
 🌐 Full-Stack Web Developer  
 
